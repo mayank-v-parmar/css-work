@@ -1,7 +1,7 @@
-# css-work
+# CSS Challenges
 
 ## Buttons
 ## Footers
 ## Forms
 ## Navbars
-## Tables 
+## Tables
